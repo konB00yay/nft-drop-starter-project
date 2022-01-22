@@ -1,0 +1,19 @@
+{
+    "name": "002TWBB",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FNyo4X1xr9rEvv5QpRPHt1kKLJ46ToDiGSdbefSy9PyA",
+          "share": 100
+        }
+      ]
+    }
+  }
